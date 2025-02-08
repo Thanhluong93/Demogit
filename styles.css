@@ -1,0 +1,29 @@
+h1,h2{
+    background-color: aqua;
+    text-transform: uppercase;
+    padding: 40px;
+    height: 50px;
+    width: 300px;
+}
+#reg-username {
+    font-weight: bold;
+}
+input:enabled {
+    color: red;
+}
+input {
+    box-shadow: 0 10px 10px 0;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+button {
+    background-color: aqua;
+    width: 100px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
+
